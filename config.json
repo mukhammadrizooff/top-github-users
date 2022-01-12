@@ -133,7 +133,7 @@
     { "country":  "united kingdom", "geoName": "United Kingdom", "cities": ["london", "birmingham", "edinburgh", "manchester", "glasgow", "liverpool", "bristol"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" },
     { "country":  "united states", "geoName": "United States of America", "cities": ["new-york", "chicago", "los-angeles", "san-francisco", "austin", "seattle"], "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" },
     { "country":  "uruguay", "geoName": "Uruguay", "cities": ["montevideo"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" },
-    { "country":  "uzbekistan", "geoName": "Uzbekistan", "cities": ["samarkand", "tashkent"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" },
+    { "country":  "uzbekistan", "geoName": "Uzbekistan", "cities": ["Andijon", "samarkand", "tashkent"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" },
     { "country":  "venezuela", "geoName": "Venezuela", "cities": ["caracas", "maracay", "maracaibo", "guayana-city"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" },
     { "country":  "vietnam", "geoName": "Vietnam", "cities": ["ho-chi-minh-city", "hanoi", "da-nang", "can-tho", "haiphong"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" },
     { "country":  "yemen", "geoName": "Yemen", "cities": [" sana'a"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" },
